@@ -1,0 +1,2 @@
+AWSAccountNumber,BudgetName,Period,StartMonth,EndMonth,BudgetAmount,BudgetScope,Alert1Threshold,Alert1Trigger,Alert1Emails,Alert2Threshold,Alert2Trigger,Alert2Emails,Alert3Threshold,Alert3Trigger,Alert3Emails,Alert4Threshold,Alert4Trigger,Alert4Emails
+66666666666666,ABC Operations DEV Account Overall Budget,monthly,2023-03-01_00:00,2024-03-01_00:00,1,All AWS services (Recommended),50,ACTUAL,myeamil@mycompany.com,75,ACTUAL,myeamil@mycompany.com,100,ACTUAL,myeamil@mycompany.com,100,FORECASTED,myeamil@mycompany.com
